@@ -2,7 +2,7 @@
 This repo contains the code that i wrote to replicate the "ping" network utility.
 
 Thanks to https://github.com/mihika09/Python-Ping/blob/master/ping.py
-I have used above code for my reference
+I have used this code for my reference
 
 ## screenshots
 ![image](https://github.com/itsRohit47/sit202-myping/assets/108188800/5f19ed7c-26d5-4ca0-aca5-ca0e54bf89ea)
